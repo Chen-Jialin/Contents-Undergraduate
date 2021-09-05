@@ -1,5 +1,7 @@
 # Contents-Undergraduate
-本科期间（2017下半年 - 2021上半年）工作汇总。Contents of work during undergraduate period (Fall, 2017 - Spring 2021).
+本科期间（2017下半年 - 2021上半年）工作汇总。
+
+[English version](README_en.md)
 
 ## 大一上：2017-2018 学年第一学期
 - 普通物理 IA（PHYS1101）
@@ -64,6 +66,7 @@
 
 ## 大三下：2019-2020 学年第二学期
 - 固体物理（PHYS1502）
+  - [作业](https://github.com/Chen-Jialin/Solid-State-Physics-Assignments)
   - [小抄](https://github.com/Chen-Jialin/Solid-State-Physics-CheatSheet)
 - 非线性光学（PHYS2202）
   - [作业](https://github.com/Chen-Jialin/Nonlinear-Optics-Assignments)
@@ -101,7 +104,8 @@
   - [硒化镉量子点的二维光谱探测](https://github.com/Chen-Jialin/Undergraduate-Thesis)
 
 ## 其他
-- 全国大学生物理学术竞赛（CUPT）
+- [2019 年数学建模美赛](https://github.com/Chen-Jialin/ICM-2019)
+- 2019 全国大学生物理学术竞赛（CUPT）
   - [第 1 题：电晕放电驱动马达](https://github.com/Chen-Jialin/CUPT-2019-Problem-1-Invent-Yourself)
   - [第 6 题：飓风球](https://github.com/Chen-Jialin/CUPT-2019-Problem-6-Hurricane-Balls)
   - [第 9 题：酱油光学](https://github.com/Chen-Jialin/CUPT-2019-Problem-9-Soy-Sauce-Optics)
@@ -109,3 +113,4 @@
   - [第 14 题：循环摆](https://github.com/Chen-Jialin/CUPT-2019-Problem-14-Looping-Pendulum)
 - [2019 高教杯全国大学生数学建模竞赛论文](https://github.com/Chen-Jialin/CUMCM-2019)
 - [教师资格证考试主观题记忆内容归纳](https://github.com/Chen-Jialin/Teacher-Certification-Exam-Summary)
+- [2020 年数学建模美赛](https://github.com/Chen-Jialin/ICM-2020)
