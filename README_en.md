@@ -111,6 +111,6 @@ Contents of work during undergraduate period (Fall, 2017 - Spring 2021).
   - [Problem 9: Soy Sauce Optics](https://github.com/Chen-Jialin/CUPT-2019-Problem-9-Soy-Sauce-Optics)
   - [Problem 13: Moire Thread Counter](https://github.com/Chen-Jialin/CUPT-2019-Problem-13-Moire-Thread-Counter)
   - [Problem 14: Looping Pendulum](https://github.com/Chen-Jialin/CUPT-2019-Problem-14-Looping-Pendulum)
-- [Paper of 2019 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)](https://github.com/Chen-Jialin/CUMCM-2019)
+- [2019 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)](https://github.com/Chen-Jialin/CUMCM-2019)
 - [Summary for teacher certification exam subjective questions](https://github.com/Chen-Jialin/Teacher-Certification-Exam-Summary)
 - [The Interdisciplinary Contest in Modeling (ICM) 2020](https://github.com/Chen-Jialin/ICM-2020)
