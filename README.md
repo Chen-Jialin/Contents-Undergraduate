@@ -111,6 +111,6 @@
   - [第 9 题：酱油光学](https://github.com/Chen-Jialin/CUPT-2019-Problem-9-Soy-Sauce-Optics)
   - [第 13 题：莫尔织物计数器](https://github.com/Chen-Jialin/CUPT-2019-Problem-13-Moire-Thread-Counter)
   - [第 14 题：循环摆](https://github.com/Chen-Jialin/CUPT-2019-Problem-14-Looping-Pendulum)
-- [2019 高教杯全国大学生数学建模竞赛论文](https://github.com/Chen-Jialin/CUMCM-2019)
+- [2019 高教杯全国大学生数学建模竞赛](https://github.com/Chen-Jialin/CUMCM-2019)
 - [教师资格证考试主观题记忆内容归纳](https://github.com/Chen-Jialin/Teacher-Certification-Exam-Summary)
 - [2020 年数学建模美赛](https://github.com/Chen-Jialin/ICM-2020)
