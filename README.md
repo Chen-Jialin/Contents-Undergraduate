@@ -31,7 +31,7 @@
   - [期中考试](https://github.com/Chen-Jialin/Optics-Midterm-Exam)
 - 理论力学（PHYS1302）
   - [作业](https://github.com/Chen-Jialin/Theoretical-Mechanics-Assignments)
-  - [考试](https://github.com/Chen-Jialin/Theoretical-Mechanics-Exams/settings)
+  - [考试](https://github.com/Chen-Jialin/Theoretical-Mechanics-Exams)
 - 光学实验（PHYS1311）
   - [实验报告](https://github.com/Chen-Jialin/Optical-Lab-Reports)
 
