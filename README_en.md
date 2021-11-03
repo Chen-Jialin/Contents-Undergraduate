@@ -31,7 +31,7 @@ Contents of work during undergraduate period (Fall, 2017 - Spring 2021).
   - [Midterm exam](https://github.com/Chen-Jialin/Optics-Midterm-Exam)
 - Theoretical Mechanics (PHYS1302)
   - [Assignments](https://github.com/Chen-Jialin/Theoretical-Mechanics-Assignments)
-  - [Exam](https://github.com/Chen-Jialin/Theoretical-Mechanics-Exams/settings)
+  - [Exam](https://github.com/Chen-Jialin/Theoretical-Mechanics-Exams)
 - Optical Lab (PHYS1311)
   - [Experiment reports](https://github.com/Chen-Jialin/Optical-Lab-Reports)
 
