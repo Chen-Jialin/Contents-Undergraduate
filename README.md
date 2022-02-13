@@ -1,5 +1,5 @@
 # Contents-Undergraduate
-本科期间（2017下半年 - 2021上半年）工作汇总。
+本科期间（2017 下半年 - 2021 上半年）工作汇总。
 
 [English version](README_en.md)
 
